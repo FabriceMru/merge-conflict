@@ -2,4 +2,4 @@ This is a MERGE exercise
 
 beginning from github
 
-I live in BERLIn
+I live in Düsseldorf
