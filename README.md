@@ -1,2 +1,2 @@
-# merge-conflict
-merge-conflict from github
+This is a MERGE exercise
+beginning from github
